@@ -7,8 +7,6 @@ Proyecto académico que propone un sistema web para gestionar citas en una clín
 ## Objetivo
 Facilitar la consulta de horarios disponibles, el registro de solicitudes de citas y la sugerencia de horarios alternativos cuando el horario elegido no esté disponible.
 
-## Integrantes
-- Alexis Burgos
 
 ## Módulos
 - Consulta de horarios disponibles
