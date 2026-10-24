@@ -23,3 +23,11 @@ Prototipo en desarrollo. La propuesta contempla cuatro pantallas y todavía no c
 ## Fecha de inicio
 
 21 Octubre de 2026.
+
+## Entrega final
+
+El proyecto contiene la documentación, los requerimientos, la arquitectura y el prototipo de cuatro pantallas del Sistema Web de Gestión de Citas Dentales.
+
+## Estado del proyecto
+
+Prototipo académico finalizado. No incluye una aplicación completa ni una base de datos conectada.
