@@ -20,3 +20,6 @@ Facilitar la consulta de horarios disponibles, el registro de solicitudes de cit
 ## Estado del proyecto
 Prototipo en desarrollo. La propuesta contempla cuatro pantallas y todavía no cuenta con una base de datos conectada.
 
+## Fecha de inicio
+
+21 Octubre de 2026.
